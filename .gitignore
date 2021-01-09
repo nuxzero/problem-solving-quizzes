@@ -1,0 +1,4 @@
+/kotlin/build/
+/kotlin/.gradle/
+/kotlin/.idea/
+.DS_Store
